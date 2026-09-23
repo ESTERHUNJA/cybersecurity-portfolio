@@ -1,42 +1,16 @@
-# \# Ester Hunja | Cybersecurity \& Digital Forensics Engineer
+# \# Ester Hunja
 
 # 
 
-# !\[Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=flat-square)
-
-# !\[GRC](https://img.shields.io/badge/GRC-black?style=flat-square)
-
-# !\[SOC](https://img.shields.io/badge/Security%20Operations-black?style=flat-square)
-
-# !\[ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-Lead%20Implementer-blue?style=flat-square)
-
-# !\[ISO 42001](https://img.shields.io/badge/ISO%2FIEC%2042001-Lead%20Implementer-blue?style=flat-square)
-
-# !\[SAL1](https://img.shields.io/badge/Security%20Analyst-Level%201-blue?style=flat-square)
+# \### Cybersecurity \& Digital Forensics Engineer
 
 # 
 
-# Welcome to my cybersecurity portfolio. This repository showcases hands-on security labs, security monitoring exercises, GRC work, and professional development.
+# \*\*Cybersecurity | GRC | Security Operations | Information Security\*\*
 
 # 
 
-# \## Table of Contents
-
-# 
-
-# \* \[About Me](#about-me)
-
-# \* \[Skills \& Tools](#skills--tools)
-
-# \* \[Certifications](#certifications)
-
-# \* \[Featured Projects](#featured-projects)
-
-# \* \[Repository Structure](#repository-structure)
-
-# \* \[Career Focus](#career-focus)
-
-# \* \[Connect With Me](#connect-with-me)
+# \---
 
 # 
 
@@ -44,121 +18,149 @@
 
 # 
 
-# I'm a Cybersecurity and Digital Forensics Engineer with practical knowledge across security operations, Governance, Risk and Compliance (GRC), vulnerability assessment, incident response, and digital forensics.
+# I am a Cybersecurity and Digital Forensics Engineer with practical knowledge in cybersecurity operations, Governance, Risk and Compliance (GRC), vulnerability assessment, incident response, digital forensics, and information security.
 
 # 
 
-# My practical experience has been developed through hands-on cybersecurity labs, professional training, and technical exposure. I'm particularly interested in Security Operations (SOC), GRC, and information security management.
+# My practical skills have been developed through hands-on cybersecurity labs, professional training, and technical projects. I am particularly interested in cybersecurity, GRC, Security Operations, and ISO/IEC standards.
 
 # 
 
-# \## Skills \& Tools
+# \---
 
 # 
 
-# \*\*Security Operations\*\*
+# \## Skills
 
 # 
 
-# Security Monitoring \& Log Analysis · Threat Detection \& Alert Triage · Vulnerability Assessment · Incident Response · Digital Forensics · Web Application Security Testing · Security Auditing
+# \### Cybersecurity
 
 # 
 
-# \*\*GRC \& Information Security\*\*
+# \* Security Monitoring \& Log Analysis
+
+# \* Threat Detection \& Alert Triage
+
+# \* Vulnerability Assessment
+
+# \* Incident Response
+
+# \* Digital Forensics
+
+# \* Web Application Security Testing
+
+# \* Security Auditing
 
 # 
 
-# Risk Assessment · Governance, Risk \& Compliance · Information Security Management · ISO/IEC 27001 · ISO/IEC 42001 · Security Controls \& Compliance
+# \### GRC \& Information Security
 
 # 
 
-# \*\*Tools\*\*
+# \* Risk Assessment
+
+# \* Governance, Risk \& Compliance (GRC)
+
+# \* Information Security Management
+
+# \* ISO/IEC 27001
+
+# \* ISO/IEC 42001
+
+# \* Security Controls \& Compliance
 
 # 
 
-# Wazuh · Burp Suite · Kali Linux · Metasploitable 2 · OWASP · VirtualBox · Power BI
+# \### Tools
 
 # 
 
-# \## Certifications
+# \* Wazuh
+
+# \* Burp Suite
+
+# \* Kali Linux
+
+# \* Metasploitable 2
+
+# \* OWASP
+
+# \* VirtualBox
+
+# \* Power BI
 
 # 
 
-# | Certification                   | Issuer              |
-
-# | ------------------------------- | ------------------- |
-
-# | Security Analyst Level 1 (SAL1) | ICDFA               |
-
-# | ISO/IEC 27001 Lead Implementer  | ICDFA Academy       |
-
-# | ISO/IEC 42001 Lead Implementer  | ICDFA Academy       |
-
-# | GRC Training                    | ICDFA               |
-
-# | Data Analysis Training          | Data Girls Tanzania |
+# \---
 
 # 
 
-# \## Featured Projects
+# \## Certifications \& Training
 
 # 
 
-# \### 🔐 \[Metasploitable 2 Penetration Testing Lab](./projects/metasploitable2-pentest/)
+# \* Security Analyst Level 1 (SAL1)
+
+# \* ISO/IEC 27001 Lead Implementer
+
+# \* ISO/IEC 42001 Lead Implementer
+
+# \* Governance, Risk \& Compliance (GRC) Training
+
+# \* Data Analysis Training
+
+# \* Cybersecurity 101
+
+# \* Cisco Cybersecurity Essentials
 
 # 
 
-# Hands-on penetration testing lab using Metasploitable 2 to practice reconnaissance, enumeration, vulnerability identification, and exploitation in a controlled environment.
+# \---
 
 # 
 
-# \### 🌐 \[OWASP Web Application Security Lab](./projects/OWASP/)
+# \## Projects \& Labs
 
 # 
 
-# Web application security assessment based on OWASP Top 10 concepts, using Burp Suite to identify and validate common web application vulnerabilities.
+# \### Metasploitable 2 Penetration Testing Lab
 
 # 
 
-# \### 🛡️ \[Wazuh Security Monitoring Lab](./projects/WAZUH/)
+# A hands-on penetration testing lab focused on reconnaissance, enumeration, vulnerability identification, and exploitation in a controlled environment.
 
 # 
 
-# Hands-on security monitoring lab using Wazuh, focusing on log collection, security events, alert analysis, and threat detection.
+# \[View Project →](./projects/metasploitable2-pentest/)
 
 # 
 
-# \### 📋 GRC Lab
+# \### OWASP Web Application Security Lab
 
 # 
 
-# Practical GRC exercises covering risk identification, assessment, documentation, and information security concepts aligned with ISO/IEC 27001.
+# A hands-on web application security assessment based on OWASP security concepts, using Burp Suite to identify and assess common web application vulnerabilities.
 
 # 
 
-# \## Repository Structure
+# \[View Project →](./projects/OWASP/)
 
 # 
 
-# ```text
+# \### Wazuh Security Monitoring Lab
 
-# cybersecurity-portfolio/
+# 
 
-# │
+# A hands-on security monitoring lab using Wazuh, focusing on log collection, security events, alert analysis, and threat detection.
 
-# ├── certificates/
+# 
 
-# │
+# \[View Project →](./projects/WAZUH/)
 
-# └── projects/
+# 
 
-# &#x20;   ├── metasploitable2-pentest/
-
-# &#x20;   ├── OWASP/
-
-# &#x20;   └── WAZUH/
-
-# ```
+# \---
 
 # 
 
@@ -166,17 +168,23 @@
 
 # 
 
-# Open to opportunities in:
+# Interested in opportunities related to:
 
 # 
 
-# \* Security Operations (SOC) / Security Analyst
+# \* Cybersecurity
+
+# \* Security Operations (SOC)
 
 # \* GRC \& Information Security
 
-# \* Junior Cybersecurity Engineer
-
 # \* Risk \& Compliance
+
+# \* Junior Cybersecurity Engineering
+
+# 
+
+# \---
 
 # 
 
@@ -184,11 +192,13 @@
 
 # 
 
-# \*\*Ester Hunja\*\* — Dar es Salaam, Tanzania
+# \*\*Ester Hunja\*\*
+
+# Dar es Salaam, Tanzania
 
 # 
 
-# \[LinkedIn](https://www.linkedin.com/in/ester-hunja/) · \[GitHub](https://github.com/ESTERHUNJA) · \[hunjaester1@gmail.com](mailto:hunjaester1@gmail.com)
+# \[LinkedIn](https://www.linkedin.com/in/ester-hunja/) · \[GitHub](https://github.com/ESTERHUNJA) · \[Email](mailto:hunjaester1@gmail.com)
 
 # 
 
